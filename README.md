@@ -1,6 +1,12 @@
 # Googlly
 googlly will print result of google search box as urls
 
+[✔] python3.5 googlly.py "site:.com+inurl:.php?id="
+
+[✔] python3.5 googlly.py "website.com"
+
+[✔] python3.5 googlly.py "21.1.13.11"
+
 its same when you search on google search box and you type : "String to look" 
 and the result will be some top links that have the words of your string "String to look" but will save 
 in a file and that file has two saving 1: pure links for more fetching. and the original.
